@@ -1,0 +1,39 @@
+.hero__content{
+    width: 1240px;
+    height: 450px;
+    background-image: url(../images/create-plan.png);
+    margin-bottom: 168px;
+    border-radius: 10px;
+    
+ }
+
+ .hero__title{
+   font-style: normal;
+   font-weight: 900;
+   font-size: 72px;
+   line-height: 72px;
+   color: #FEFCF7;
+   margin: 0;
+   padding: 0;
+   padding-top: 134px;
+   padding-left: 85px;
+   margin-bottom: 32px;
+ }
+
+.hero__info{
+   width: 445px;
+   height: 78px;
+   margin: 0;
+   padding: 0;
+   margin-bottom: 24px;
+   margin-left: 85px;
+}
+
+.hero__text{
+   font-family: $main-text-family;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 26px;
+   color: #FEFCF7;
+} 

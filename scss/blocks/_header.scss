@@ -1,0 +1,47 @@
+.header__box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ 
+ .header__logo{
+    margin: 44px 0;
+    vertical-align: middle;
+ }
+ 
+ .header__navbar{
+    display: flex;
+    
+ }
+ 
+ .navbar__list{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    vertical-align: middle;
+ }
+ 
+ .navbar__item{
+    margin-left: 33px; 
+ 
+ }
+ 
+ .navbar__link{
+    text-decoration: none;
+    font-family: $main-text-family;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #83888F;
+ }
+ 
+ .navbar__link:hover{
+    font-family: $main-text-family;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #333D4B;
+ }
